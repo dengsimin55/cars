@@ -1,8 +1,10 @@
 {
   "pages":[
-    "pages/vehicles/show",
+    "pages/stories/stories",
+    "pages/stories/show",
     "pages/index/index",
-    "pages/stories/stories"
+    "pages/vehicles/show"
+    
   ],
   "window":{
     "navigationBarTitleText":"汽车",

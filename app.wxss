@@ -1,5 +1,6 @@
 @import "styles/reset.wxss";
 @import "styles/card.wxss";
+@import "styles/hero.wxss";
 
 page {
   background: #f8f8f8;
